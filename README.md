@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🧑🏻‍💻 Bruno Fagundes
 
-<!--
-**brunofagundesdev/brunofagundesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor Web em formação | Inclinado a Fullstack**
 
-Here are some ideas to get you started:
+Sou estudante de **Informática para Internet no IFRS**, com base em desenvolvimento web e foco em aprender na prática através de projetos e freelas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho contato tanto com front-end quanto com back-end, e sigo me aprofundando para atuar de forma cada vez mais completa no desenvolvimento de aplicações web.
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bruno-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg">
+  <img align="center" alt="Bruno-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg">     
+  <img align="center" alt="Bruno-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg">     
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunofagundesdev&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunofagundesdev&layout=compact&theme=dark)
