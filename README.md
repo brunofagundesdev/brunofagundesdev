@@ -15,10 +15,3 @@ Tenho contato tanto com front-end quanto com back-end, e sigo me aprofundando pa
   <img align="center" alt="Bruno-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg">     
 </div>
 
----
-
-## 📊 GitHub Stats
-
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunofagundesdev&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunofagundesdev&layout=compact&theme=dark)
