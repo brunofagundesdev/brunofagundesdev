@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Bruno Fagundes
 
-**`Desenvolvedor Web em formação | Inclinado a Fullstack`**
+**`Desenvolvedor Fullstack em formação`**
 
 Sou estudante de **Informática para Internet no IFRS**, com base em desenvolvimento web e foco em aprender na prática através de projetos e freelas.
 
