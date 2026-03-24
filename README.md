@@ -20,6 +20,11 @@ Tenho contato tanto com front-end quanto com back-end, e sigo me aprofundando pa
   <img align="center" alt="Bruno-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="Bruno-Fastify" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fastify/fastify-original.svg">
   <img align="center" alt="Bruno-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Bruno-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
+  <img align="center" alt="Bruno-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg">
+
+  
+  
   
   
   
