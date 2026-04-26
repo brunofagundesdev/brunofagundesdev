@@ -1,10 +1,13 @@
 # 🧑🏻‍💻 Bruno Fagundes
 
-**`Aspiring Fullstack Developer`**
+**`Fullstack Developer in progress`**
 
-I am an **Information Systems for the Internet** student at **IFRS**, focused on web development and hands-on learning through real-world projects and freelance work.
+I'm an Information Systems for the Internet student at IFRS — and also self-taught outside the classroom.
 
-I work with both frontend and backend technologies, constantly deepening my knowledge to build robust and complete web applications.
+I focus on building real web applications, working across both frontend and backend.
+Most of my learning comes from actually coding, breaking things, and figuring out how to fix them.
+
+Currently working with APIs, backend architecture, and fullstack projects.
 
 ---
 
