@@ -26,6 +26,7 @@ Currently working with APIs, backend architecture, and fullstack projects.
 <p>
   <img alt="NODEJS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-plain-wordmark.svg">&nbsp;
   <img alt="FASTIFY" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fastify/fastify-original.svg">&nbsp;
+  <img alt="EXPRESS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original.svg">&nbsp;
   <img alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">&nbsp;
   <img alt="CODEIGNITER" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/codeigniter/codeigniter-plain.svg">
 </p>
